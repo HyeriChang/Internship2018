@@ -1,0 +1,735 @@
+
+title: Structuring Python Programs
+url: https://realpython.com/python-program-structure/
+tag: basics python 
+date: Sep 03, 2018
+
+title: We're Celebrating 1 Million Page Views per Month!
+url: https://realpython.com/one-million-pageviews-celebration/
+tag: community 
+date: Sep 01, 2018
+
+title: Python Pandas: Tricks & Features You May Not Know
+url: https://realpython.com/python-pandas-tricks/
+tag: data-science intermediate 
+date: Aug 29, 2018
+
+title: Python Community Interview With Mariatta Wijaya
+url: https://realpython.com/interview-mariatta-wijaya/
+tag: community 
+date: Aug 27, 2018
+
+title: Primer on Python Decorators
+url: https://realpython.com/primer-on-python-decorators/
+tag: intermediate python 
+date: Aug 22, 2018
+
+title: Sets in Python
+url: https://realpython.com/python-sets/
+tag: basics python 
+date: Aug 20, 2018
+
+title: The Ultimate Guide to Django Redirects
+url: https://realpython.com/django-redirects/
+tag: django intermediate web-dev 
+date: Aug 15, 2018
+
+title: Advanced Git Tips for Python Developers
+url: https://realpython.com/advanced-git-for-pythonistas/
+tag: advanced tools 
+date: Aug 13, 2018
+
+title: Python Community Interview With Mike Driscoll
+url: https://realpython.com/interview-mike-driscoll/
+tag: community 
+date: Aug 08, 2018
+
+title: Dictionaries in Python
+url: https://realpython.com/python-dicts/
+tag: basics python 
+date: Aug 06, 2018
+
+title: Socket Programming in Python (Guide)
+url: https://realpython.com/python-sockets/
+tag: advanced python web-dev 
+date: Aug 01, 2018
+
+title: Python Code Quality: Tools & Best Practices
+url: https://realpython.com/python-code-quality/
+tag: best-practices python tools 
+date: Jul 30, 2018
+
+title: Documenting Python Code: A Complete Guide
+url: https://realpython.com/documenting-python-code/
+tag: best-practices intermediate python 
+date: Jul 25, 2018
+
+title: Fast, Flexible, Easy and Intuitive: How to Speed Up Your Pandas Projects
+url: https://realpython.com/fast-flexible-pandas/
+tag: data-science python 
+date: Jul 23, 2018
+
+title: Lists and Tuples in Python
+url: https://realpython.com/python-lists-tuples/
+tag: basics python 
+date: Jul 18, 2018
+
+title: Reading and Writing CSV Files in Python
+url: https://realpython.com/python-csv/
+tag: data-science intermediate python 
+date: Jul 16, 2018
+
+title: Generating Random Data in Python (Guide)
+url: https://realpython.com/python-random/
+tag: data-science intermediate python 
+date: Jul 11, 2018
+
+title: Strings and Character Data in Python
+url: https://realpython.com/python-strings/
+tag: basics python 
+date: Jul 09, 2018
+
+title: Python String Formatting Best Practices
+url: https://realpython.com/python-string-formatting/
+tag: basics best-practices python 
+date: Jul 04, 2018
+
+title: Python Histogram Plotting: NumPy, Matplotlib, Pandas & Seaborn
+url: https://realpython.com/python-histograms/
+tag: basics data-science 
+date: Jul 02, 2018
+
+title: Cool New Features in Python 3.7
+url: https://realpython.com/python37-new-features/
+tag: python 
+date: Jun 27, 2018
+
+title: What Can I Do With Python?
+url: https://realpython.com/what-can-i-do-with-python/
+tag: basics python 
+date: Jun 25, 2018
+
+title: Operators and Expressions in Python
+url: https://realpython.com/python-operators-expressions/
+tag: basics python 
+date: Jun 20, 2018
+
+title: The Ultimate List of Python YouTube Channels
+url: https://realpython.com/python-youtube-channels/
+tag: python tools 
+date: Jun 18, 2018
+
+title: Variables in Python
+url: https://realpython.com/python-variables/
+tag: basics python 
+date: Jun 12, 2018
+
+title: Building and Documenting Python REST APIs With Flask and Connexion
+url: https://realpython.com/flask-connexion-rest-api/
+tag: api flask intermediate web-dev 
+date: Jun 11, 2018
+
+title: Basic Data Types in Python
+url: https://realpython.com/python-data-types/
+tag: basics python 
+date: Jun 05, 2018
+
+title: Python Application Layouts: A Reference
+url: https://realpython.com/python-application-layouts/
+tag: basics best-practices python 
+date: Jun 04, 2018
+
+title: Itertools in Python 3, By Example
+url: https://realpython.com/python-itertools/
+tag: advanced python 
+date: May 30, 2018
+
+title: Interacting with Python
+url: https://realpython.com/interacting-with-python/
+tag: basics python 
+date: May 28, 2018
+
+title: Python 3 Installation & Setup Guide
+url: https://realpython.com/installing-python/
+tag: basics best-practices python 
+date: May 23, 2018
+
+title: Introduction to Python 3
+url: https://realpython.com/python-introduction/
+tag: basics python 
+date: May 21, 2018
+
+title: The Ultimate Guide to Data Classes in Python 3.7
+url: https://realpython.com/python-data-classes/
+tag: intermediate python 
+date: May 15, 2018
+
+title: Python 3's f-Strings: An Improved String Formatting Syntax (Guide)
+url: https://realpython.com/python-f-strings/
+tag: basics python 
+date: May 14, 2018
+
+title: Operator and Function Overloading in Custom Python Classes
+url: https://realpython.com/operator-function-overloading/
+tag: intermediate python 
+date: May 08, 2018
+
+title: Pure Python vs NumPy vs TensorFlow Performance Comparison
+url: https://realpython.com/numpy-tensorflow-performance/
+tag: advanced data-science machine-learning 
+date: May 07, 2018
+
+title: Python Metaclasses
+url: https://realpython.com/python-metaclasses/
+tag: advanced python 
+date: May 01, 2018
+
+title: Python Exceptions: An Introduction
+url: https://realpython.com/python-exceptions/
+tag: basics python 
+date: Apr 30, 2018
+
+title: Pipenv: A Guide to the New Python Packaging Tool
+url: https://realpython.com/pipenv-guide/
+tag: intermediate tools 
+date: Apr 24, 2018
+
+title: Python 3's pathlib Module: Taming the File System
+url: https://realpython.com/python-pathlib/
+tag: intermediate python 
+date: Apr 23, 2018
+
+title: Python Modules and Packages – An Introduction
+url: https://realpython.com/python-modules-packages/
+tag: basics python 
+date: Apr 17, 2018
+
+title: Working With JSON Data in Python
+url: https://realpython.com/python-json/
+tag: intermediate python 
+date: Apr 16, 2018
+
+title: Look Ma, No For-Loops: Array Programming With NumPy
+url: https://realpython.com/numpy-array-programming/
+tag: data-science intermediate 
+date: Apr 10, 2018
+
+title: Python Debugging With Pdb
+url: https://realpython.com/python-debugging-pdb/
+tag: intermediate python tools 
+date: Apr 09, 2018
+
+title: Introduction to Git and GitHub for Python Developers
+url: https://realpython.com/python-git-github-intro/
+tag: basics tools 
+date: Apr 04, 2018
+
+title: 11 Beginner Tips for Learning Python Programming
+url: https://realpython.com/python-beginner-tips/
+tag: basics python 
+date: Apr 03, 2018
+
+title: Thinking Recursively in Python
+url: https://realpython.com/python-thinking-recursively/
+tag: intermediate python 
+date: Mar 27, 2018
+
+title: Pythonic Data Cleaning With NumPy and Pandas
+url: https://realpython.com/python-data-cleaning-numpy-pandas/
+tag: data-science intermediate 
+date: Mar 26, 2018
+
+title: The Ultimate Guide To Speech Recognition With Python
+url: https://realpython.com/python-speech-recognition/
+tag: advanced data-science machine-learning 
+date: Mar 21, 2018
+
+title: 4 Techniques for Testing Python Command-Line (CLI) Apps
+url: https://realpython.com/python-cli-testing/
+tag: best-practices testing 
+date: Mar 20, 2018
+
+title: Python IDEs and Code Editors (Guide)
+url: https://realpython.com/python-ides-code-editors-guide/
+tag: basics tools 
+date: Mar 13, 2018
+
+title: Python Project for Beginners: Bitcoin Price Notifications
+url: https://realpython.com/python-bitcoin-ifttt/
+tag: basics web-dev 
+date: Mar 08, 2018
+
+title: What is the Python Global Interpreter Lock (GIL)?
+url: https://realpython.com/python-gil/
+tag: advanced python 
+date: Mar 06, 2018
+
+title: Python Plotting With Matplotlib (Guide)
+url: https://realpython.com/python-matplotlib-guide/
+tag: basics data-science 
+date: Feb 28, 2018
+
+title: Object-Oriented Programming (OOP) in Python 3
+url: https://realpython.com/python3-object-oriented-programming/
+tag: intermediate python 
+date: Feb 13, 2018
+
+title: 8 World-Class Software Companies That Use Python
+url: https://realpython.com/world-class-companies-using-python/
+tag: python 
+date: Feb 08, 2018
+
+title: Modern Web Automation With Python and Selenium
+url: https://realpython.com/modern-web-automation-with-python-and-selenium/
+tag: intermediate testing web-scraping 
+date: Feb 06, 2018
+
+title: Shallow vs Deep Copying of Python Objects
+url: https://realpython.com/copying-python-objects/
+tag: advanced python 
+date: Jan 31, 2018
+
+title: Python + Memcached: Efficient Caching in Distributed Applications
+url: https://realpython.com/python-memcache-efficient-caching/
+tag: databases intermediate web-dev 
+date: Jan 30, 2018
+
+title: Simplifying Offline Python Deployments With Docker
+url: https://realpython.com/offline-python-deployments-with-docker/
+tag: devops docker intermediate python 
+date: Jan 24, 2018
+
+title: Practical Introduction to Web Scraping in Python
+url: https://realpython.com/python-web-scraping-practical-introduction/
+tag: basics web-scraping 
+date: Jan 23, 2018
+
+title: Building a Simple Web App With Bottle, SQLAlchemy, and the Twitter API
+url: https://realpython.com/building-a-simple-web-app-with-bottle-sqlalchemy-twitter-api/
+tag: api databases web-dev 
+date: Dec 11, 2017
+
+title: Code Evaluation With AWS Lambda and API Gateway
+url: https://realpython.com/code-evaluation-with-aws-lambda-and-api-gateway/
+tag: advanced devops web-dev 
+date: Sep 25, 2017
+
+title: User Authentication With Angular 4 and Flask
+url: https://realpython.com/user-authentication-with-angular-4-and-flask/
+tag: advanced flask front-end web-dev 
+
+title: Test Driven Development of a Django RESTful API
+url: https://realpython.com/test-driven-development-of-a-django-restful-api/
+tag: advanced api django testing web-dev 
+
+title: Python's Instance, Class, and Static Methods Demystified
+url: https://realpython.com/instance-class-and-static-methods-demystified/
+tag: intermediate python 
+
+title: Getting Started with Django Channels
+url: https://realpython.com/getting-started-with-django-channels/
+tag: advanced databases django web-dev 
+
+title: Token-Based Authentication With Flask
+url: https://realpython.com/token-based-authentication-with-flask/
+tag: advanced flask web-dev 
+
+title: Automating Django Deployments with Fabric and Ansible
+url: https://realpython.com/automating-django-deployments-with-fabric-and-ansible/
+tag: advanced devops django web-dev 
+
+title: Introduction to MongoDB and Python
+url: https://realpython.com/introduction-to-mongodb-and-python/
+tag: basics databases 
+
+title: Introduction to Python Generators
+url: https://realpython.com/introduction-to-python-generators/
+tag: intermediate python 
+
+title: Caching in Django With Redis
+url: https://realpython.com/caching-in-django-with-redis/
+tag: databases django intermediate web-dev 
+
+title: Flask by Example – Custom Angular Directive with D3
+url: https://realpython.com/flask-by-example-custom-angular-directive-with-d3/
+tag: flask front-end web-dev 
+
+title: Testing External APIs With Mock Servers
+url: https://realpython.com/testing-third-party-apis-with-mock-servers/
+tag: advanced api testing web-dev 
+
+title: Mocking External APIs in Python
+url: https://realpython.com/testing-third-party-apis-with-mocks/
+tag: advanced api testing web-dev 
+
+title: Getting Started With the Slack API Using Python and Flask
+url: https://realpython.com/getting-started-with-the-slack-api-using-python-and-flask/
+tag: api flask intermediate web-dev 
+
+title: Deploying Django + Python 3 + PostgreSQL to AWS Elastic Beanstalk
+url: https://realpython.com/deploying-a-django-app-and-postgresql-to-aws-elastic-beanstalk/
+tag: advanced databases devops django web-dev 
+
+title: Python Virtual Environments: A Primer
+url: https://realpython.com/python-virtual-environments-a-primer/
+tag: best-practices intermediate python tools 
+
+title: Python for Social Scientists
+url: https://realpython.com/python-for-social-scientists/
+tag: data-science python 
+
+title: Python-driven Web Applications
+url: https://realpython.com/python-web-applications/
+tag: basics web-dev 
+
+title: Development and Deployment of Django on Fedora
+url: https://realpython.com/development-and-deployment-of-cookiecutter-django-on-fedora/
+tag: devops django tools web-dev 
+
+title: PyGame – A Primer
+url: https://realpython.com/pygame-a-primer/
+tag: basics 
+
+title: Development and Deployment of Cookiecutter-Django via Docker
+url: https://realpython.com/development-and-deployment-of-cookiecutter-django-via-docker/
+tag: devops django docker web-dev 
+
+title: Emacs – The Best Python Editor?
+url: https://realpython.com/emacs-the-best-python-editor/
+tag: intermediate tools 
+
+title: First Steps With Python
+url: https://realpython.com/python-first-steps/
+tag: basics python 
+
+title: VIM and Python – A Match Made in Heaven
+url: https://realpython.com/vim-and-python-a-match-made-in-heaven/
+tag: intermediate tools 
+
+title: LinkedIn Social Authentication in Django
+url: https://realpython.com/linkedin-social-authentication-in-django/
+tag: advanced django web-dev 
+
+title: Starting a Django Project
+url: https://realpython.com/django-setup/
+tag: basics best-practices django web-dev 
+
+title: Python Programming Challenge – First to Five
+url: https://realpython.com/python-programming-contest-first-to-five/
+tag: basics python 
+
+title: Comparing Python Command-Line Parsing Libraries – Argparse, Docopt, and Click
+url: https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
+tag: intermediate tools 
+
+title: Python, Ruby, and Golang: A Web Service Application Comparison
+url: https://realpython.com/python-ruby-and-golang-a-web-service-application-comparison/
+tag: databases flask web-dev 
+
+title: Asynchronous Tasks With Django and Celery
+url: https://realpython.com/asynchronous-tasks-with-django-and-celery/
+tag: advanced databases django web-dev 
+
+title: Using Pandas to Read Large Excel Files in Python
+url: https://realpython.com/working-with-large-excel-files-in-pandas/
+tag: data-science 
+
+title: Create a REST API in Minutes With Pyramid and Ramses
+url: https://realpython.com/create-a-rest-api-in-minutes-with-pyramid-and-ramses/
+tag: api web-dev 
+
+title: Python, Ruby, and Golang: A Command-Line Application Comparison
+url: https://realpython.com/python-ruby-and-golang-a-command-line-application-comparison/
+tag: intermediate python 
+
+title: Handling User Authentication With Angular and Flask
+url: https://realpython.com/handling-user-authentication-with-angular-and-flask/
+tag: flask front-end web-dev 
+
+title: The Minimum Viable Test Suite
+url: https://realpython.com/the-minimum-viable-test-suite/
+tag: flask intermediate testing web-dev 
+
+title: Django Development with Docker Compose and Machine
+url: https://realpython.com/django-development-with-docker-compose-and-machine/
+tag: advanced devops django docker web-dev 
+
+title: Fun with Django's New Postgres Features
+url: https://realpython.com/fun-with-djangos-new-postgres-features/
+tag: advanced databases django web-dev 
+
+title: Scaffold a Flask Project
+url: https://realpython.com/scaffold-a-flask-project/
+tag: basics flask web-dev 
+
+title: Dockerizing Flask With Compose and Machine – From Localhost to the Cloud
+url: https://realpython.com/dockerizing-flask-with-compose-and-machine-from-localhost-to-the-cloud/
+tag: advanced devops docker flask web-dev 
+
+title: Learn Python the Methodical Way
+url: https://realpython.com/learn-python-the-methodical-way/
+tag: basics python 
+
+title: The Ultimate Flask Front-End – Part 2
+url: https://realpython.com/the-ultimate-flask-front-end-part-2/
+tag: advanced flask front-end web-dev 
+
+title: Analyzing Obesity in England With Python
+url: https://realpython.com/analyzing-obesity-in-england-with-python/
+tag: basics data-science 
+
+title: The Ultimate Flask Front-End
+url: https://realpython.com/the-ultimate-flask-front-end/
+tag: advanced flask front-end web-dev 
+
+title: API Integration in Python – Part 1
+url: https://realpython.com/api-integration-in-python/
+tag: api basics web-dev 
+
+title: Flask by Example – Updating the UI
+url: https://realpython.com/flask-by-example-updating-the-ui/
+tag: basics flask front-end web-dev 
+
+title: Web Scraping and Crawling with Scrapy and MongoDB
+url: https://realpython.com/web-scraping-and-crawling-with-scrapy-and-mongodb/
+tag: databases web-scraping 
+
+title: Docker in Action – Fitter, Happier, More Productive
+url: https://realpython.com/docker-in-action-fitter-happier-more-productive/
+tag: devops docker flask web-dev 
+
+title: The Most Diabolical Python Antipattern
+url: https://realpython.com/the-most-diabolical-python-antipattern/
+tag: best-practices intermediate python 
+
+title: Deploying a Django App to AWS Elastic Beanstalk
+url: https://realpython.com/deploying-a-django-app-to-aws-elastic-beanstalk/
+tag: advanced databases devops django web-dev 
+
+title: Setting up a Simple OCR Server
+url: https://realpython.com/setting-up-a-simple-ocr-server/
+tag: api data-science flask intermediate web-dev 
+
+title: Web Scraping with Scrapy and MongoDB
+url: https://realpython.com/web-scraping-with-scrapy-and-mongodb/
+tag: databases web-scraping 
+
+title: Handling Email Confirmation During Registration in Flask
+url: https://realpython.com/handling-email-confirmation-in-flask/
+tag: databases flask intermediate web-dev 
+
+title: Model-View-Controller (MVC) Explained – With Legos
+url: https://realpython.com/the-model-view-controller-mvc-paradigm-summarized-with-legos/
+tag: intermediate web-dev 
+
+title: Fingerprinting Images for Near-Duplicate Detection
+url: https://realpython.com/fingerprinting-images-for-near-duplicate-detection/
+tag: data-science machine-learning 
+
+title: Caching External API Requests
+url: https://realpython.com/caching-external-api-requests/
+tag: advanced api flask web-dev 
+
+title: Deploying Django on Dokku
+url: https://realpython.com/deploying-a-django-app-on-dokku/
+tag: advanced devops django docker web-dev 
+
+title: Automatically Scale Heroku Dynos
+url: https://realpython.com/automatically-scale-heroku-dynos/
+tag: advanced devops web-dev 
+
+title: Flask by Example – Updating the Staging Environment
+url: https://realpython.com/updating-the-staging-environment/
+tag: devops flask web-dev 
+
+title: Twitter Sentiment Analysis – Python, Docker, Elasticsearch, Kibana
+url: https://realpython.com/twitter-sentiment-python-docker-elasticsearch-kibana/
+tag: advanced api data-science docker web-dev 
+
+title: Adding Social Authentication to Django
+url: https://realpython.com/adding-social-authentication-to-django/
+tag: django web-dev 
+
+title: Kickstarting Flask on Ubuntu – Setup and Deployment
+url: https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/
+tag: devops flask web-dev 
+
+title: Django Rest Framework – Class Based Views
+url: https://realpython.com/django-rest-framework-class-based-views/
+tag: api django web-dev 
+
+title: Flask by Example – Integrating Flask and Angular
+url: https://realpython.com/flask-by-example-integrating-flask-and-angularjs/
+tag: flask front-end web-dev 
+
+title: Full Stack Development – Fetching Data, Visualizing with D3, and Deploying with Dokku
+url: https://realpython.com/web-development-with-flask-fetching-data-with-requests/
+tag: data-science devops flask front-end web-dev 
+
+title: Django Rest Framework – An Introduction
+url: https://realpython.com/django-rest-framework-quick-start/
+tag: api django web-dev 
+
+title: Flask by Example – Implementing a Redis Task Queue
+url: https://realpython.com/flask-by-example-implementing-a-redis-task-queue/
+tag: databases flask web-dev 
+
+title: Django and AJAX Form Submissions – More Practice
+url: https://realpython.com/django-and-ajax-form-submissions-more-practice/
+tag: django front-end web-dev 
+
+title: Django and AJAX Form Submissions – Say 'Goodbye' to the Page Refresh
+url: https://realpython.com/django-and-ajax-form-submissions/
+tag: django front-end web-dev 
+
+title: Flask by Example – Text Processing with Requests, BeautifulSoup, and NLTK
+url: https://realpython.com/flask-by-example-part-3-text-processing-with-requests-beautifulsoup-nltk/
+tag: data-science flask web-dev 
+
+title: Setting Up Sublime Text 3 for Full Stack Python Development
+url: https://realpython.com/setting-up-sublime-text-3-for-full-stack-python-development/
+tag: basics tools 
+
+title: Python Inner Functions—What Are They Good For?
+url: https://realpython.com/inner-functions-what-are-they-good-for/
+tag: intermediate python 
+
+title: Data Migrations
+url: https://realpython.com/data-migrations/
+tag: databases django web-dev 
+
+title: Digging Deeper Into Migrations
+url: https://realpython.com/digging-deeper-into-migrations/
+tag: advanced databases django web-dev 
+
+title: Face Detection in Python Using a Webcam
+url: https://realpython.com/face-detection-in-python-using-a-webcam/
+tag: data-science machine-learning 
+
+title: Django Migrations – A Primer
+url: https://realpython.com/django-migrations-a-primer/
+tag: basics databases django web-dev 
+
+title: Face Recognition with Python, in Under 25 Lines of Code
+url: https://realpython.com/face-recognition-with-python/
+tag: data-science machine-learning 
+
+title: Discover Flask, Part 2 – Creating a Login Page
+url: https://realpython.com/introduction-to-flask-part-2-creating-a-login-page/
+tag: basics flask web-dev 
+
+title: Discover Flask, Part 1 – Setting Up a Static Site
+url: https://realpython.com/introduction-to-flask-part-1-setting-up-a-static-site/
+tag: basics flask web-dev 
+
+title: Python Interview Problem – Parsing CSV Files
+url: https://realpython.com/python-interview-problem-parsing-csv-files/
+tag: basics data-science python 
+
+title: Flask by Example – Setting up Postgres, SQLAlchemy, and Alembic
+url: https://realpython.com/flask-by-example-part-2-postgres-sqlalchemy-and-alembic/
+tag: databases devops flask web-dev 
+
+title: Flask by Example – Project Setup
+url: https://realpython.com/flask-by-example-part-1-project-setup/
+tag: basics devops flask web-dev 
+
+title: Using Flask-Login for User Management with Flask
+url: https://realpython.com/using-flask-login-for-user-management-with-flask/
+tag: flask web-dev 
+
+title: Primer on Jinja Templating
+url: https://realpython.com/primer-on-jinja-templating/
+tag: basics flask web-dev 
+
+title: Python Web Applications With Flask – Part III
+url: https://realpython.com/python-web-applications-with-flask-part-iii/
+tag: flask web-dev 
+
+title: Working with Django and Flask on Nitrous.IO
+url: https://realpython.com/working-with-django-and-flask-on-nitrous-io/
+tag: django flask tools web-dev 
+
+title: Kickstarting a Django Open Source Project
+url: https://realpython.com/kickstarting-a-django-open-source-project/
+tag: django web-dev 
+
+title: Lyricize: A Flask app to create lyrics using Markov chains
+url: https://realpython.com/lyricize-a-flask-app-to-create-lyrics-using-markov-chains/
+tag: flask web-dev 
+
+title: Transaction Management with Django 1.6
+url: https://realpython.com/transaction-management-with-django-1-6/
+tag: advanced databases django web-dev 
+
+title: Django 1.6 Test Driven Development
+url: https://realpython.com/django-1-6-test-driven-development/
+tag: basics django testing web-dev 
+
+title: Rethink Flask – A Simple Todo List Powered by Flask and RethinkDB
+url: https://realpython.com/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/
+tag: databases flask web-dev 
+
+title: Python Web Applications With Flask – Part II
+url: https://realpython.com/python-web-applications-with-flask-part-ii/
+tag: flask web-dev 
+
+title: Migrating your Django Project to Heroku
+url: https://realpython.com/migrating-your-django-project-to-heroku/
+tag: advanced databases devops django web-dev 
+
+title: Generating Code Documentation with Pycco
+url: https://realpython.com/generating-code-documentation-with-pycco/
+tag: advanced django tools web-dev 
+
+title: An Effective Sales Page with Bootstrap 3
+url: https://realpython.com/an-effective-sales-page-with-bootstrap-3/
+tag: basics front-end web-dev 
+
+title: Integration Testing with pyVows and Django
+url: https://realpython.com/integration-testing-with-pyvows-and-django/
+tag: django testing web-dev 
+
+title: Getting Started with Bootstrap 3
+url: https://realpython.com/getting-started-with-bootstrap-3/
+tag: basics front-end web-dev 
+
+title: Unit Testing with pyVows and Django
+url: https://realpython.com/unit-testing-with-pyvows-and-django/
+tag: django testing web-dev 
+
+title: Asynchronous Testing with Django and pyVows
+url: https://realpython.com/asynchronous-testing-with-django-and-pyvows/
+tag: django testing web-dev 
+
+title: Testing in Django (Part 2) – Model Mommy vs Django Testing Fixtures
+url: https://realpython.com/testing-in-django-part-2-model-mommy-vs-django-testing-fixtures/
+tag: advanced django testing web-dev 
+
+title: Python Web Applications with Flask – Part I
+url: https://realpython.com/python-web-applications-with-flask-part-i/
+tag: basics flask web-dev 
+
+title: Testing in Django (Part 1) – Best Practices and Examples
+url: https://realpython.com/testing-in-django-part-1-best-practices-and-examples/
+tag: basics best-practices django testing web-dev 
+
+title: Create a Super Basic REST API with Django Tastypie
+url: https://realpython.com/create-a-super-basic-rest-api-with-django-tastypie/
+tag: api django web-dev 
+
+title: Developing with Bottle – Part 2 (plot.ly API)
+url: https://realpython.com/developing-with-bottle-part-2-plot-ly-api/
+tag: data-science web-dev 
+
+title: Headless Selenium Testing with Python and PhantomJS
+url: https://realpython.com/headless-selenium-testing-with-python-and-phantomjs/
+tag: front-end intermediate testing web-dev web-scraping 
+
+title: Web2py – Migrating from SQLite to MySQL
+url: https://realpython.com/web2py-migrating-from-sqlite-to-mysql/
+tag: advanced databases web-dev 
+
+title: Developing with Bottle
+url: https://realpython.com/developing-with-bottle-part-1/
+tag: basics web-dev 
